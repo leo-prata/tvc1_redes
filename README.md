@@ -2,7 +2,7 @@
 
 ## Integrantes
 
-- Gabriela
+- Gabriella
 - Igor
 - Leandro
 - Leonardo
