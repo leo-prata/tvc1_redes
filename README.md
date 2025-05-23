@@ -5,4 +5,4 @@
 - Gabriella
 - Igor
 - Leandro
-- Leonardo
+- Leonardo Pereira de Faria Prata
